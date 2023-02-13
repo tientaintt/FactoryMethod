@@ -1,0 +1,5 @@
+D:\Nam3_ki2\Thietkehethong\WorkspaceC#\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\Nam3_ki2\Thietkehethong\WorkspaceC#\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam3_ki2\Thietkehethong\WorkspaceC#\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Nam3_ki2\Thietkehethong\WorkspaceC#\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+D:\Nam3_ki2\Thietkehethong\WorkspaceC#\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
